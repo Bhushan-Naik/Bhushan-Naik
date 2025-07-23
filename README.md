@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bhushan-Naik
-- 👀 I’m interested in Web Development, Cryptography.
-- 🌱 I’m currently learning Web Developemnet
-- 💞️ I’m looking to collaborate on Web development and Cryptography and Blockchain
-- 📫 How to reach me == naikb4800@gmail.com
+- 👋 Hi, I’m @Bhushan-Naik  
+- 👨‍💻 I’m into Web Development and currently learning Data Structures & Algorithms (DSA)  
+- 🚀 I’m open to collaborating on Full Stack Web Development projects  
+- 📫 Reach out for communication: naikb4800@gmail.com  
+- 💼 Open to job opportunities → bhushanrnaik.dev@gmail.com
 
 <!---
 Bhushan-Naik/Bhushan-Naik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
